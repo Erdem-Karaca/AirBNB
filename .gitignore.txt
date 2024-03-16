@@ -1,0 +1,10 @@
+#AirBNB IGNORE FILES
+*.log
+*.aux
+*.Rhistory
+.RData
+**gen/
+**.Rout
+*.csv
+*.zip
+*.7z
